@@ -1,0 +1,17 @@
+.portimg {
+    width: 250px;
+    height: 275px;
+}
+
+.piccap {
+    text-align: center;
+    color: black;
+    background-color: #e1e6ef;
+    font-size: 30px;
+    opacity: 0.65;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 30%;
+}
